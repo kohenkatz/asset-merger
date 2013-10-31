@@ -1,0 +1,11 @@
+{
+	"name":        "kohenkatz/asset-merger",
+	"type":        "kohana-module",
+	"description": "An Asset manager for Kohana",
+	"license":     "BSD-3-Clause",
+	"require": {
+		"composer/installers": "~1.0",
+		"kohana/core":         ">=3.3",
+		"php":                 ">=5.3.3"
+	}
+}
